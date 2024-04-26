@@ -1,0 +1,27 @@
+windows_server_2019 : serveur principale
+mdp : HUGO33.
+ip : 192.168.168.10
+
+windows 10:
+user_jean
+HUGO33.
+
+windows 10 2: machine control dmz
+mdp :
+ip : 192.168.168.100
+
+dmz : 
+mdp :
+ip : 19.168.2.11
+
+pfsense:
+mdp : 155903
+	 
+ubuntu :
+mdp : HugoLa33
+
+WINDOWS TRAVAIL
+MDP : HugoLa33
+
+Debian:
+hhhh

@@ -1,0 +1,47 @@
+Schéma
+
+serv dédié: Wsus ; fichier; messagerie (SNTP)
+
+(Maquette on peut tout cumumler)
+SMB = serveur Samba permet linux echange donne avec S.I. windows
+Rajout NFS, BDD 
+
+
+
+Livrable 3 = soutenance
+Attendue Maquette: 
+
+Proposition /= faire 
+service AD: OU, organise utilisateur (Annuaire) AD secondaire relation approbation (FSMO) 
+expliquer l'organisation des utilisateurs; serveur de fichier 
+ 
+Démonstration montrer pq on l'as organisé comme ça
+
+
+pfsense: wan dmz Lan regle filtrage, proxy (on s'en fout) 
+
+Crypto (cerise sur la gateau)
+Supervision: centreon ping cpu memoire des machines CNMP voir comment il fonctionne 
+
+Demo fonctionnelle de script:
+changer mdp powershell
+vm centreon bach: scripter création d'un conteneur, installer dockers par un cript on peut deployer une machine.
+
+montrer echange donner linux windows
+
+exectué les scripts pdt la soutenance.
+ppt livrable 2 et 3. 
+piste d'amélioration
+
+
+Livrable 2 documentation:
+explique pourquoi on a utilisé tel ou tel type de virtualisation
+expliquer choix architecture service, firewall, etc...
+etude centreon autre outil + et - selon les critères choisi (pas de choix à faire)
+skip contrat maintenance et PRA (voir à la fin)
+Expliquer pq firewall (placement...).
+script powershell
+script bash (linux)
+script en lien avec supervision 
+
+Politique de sauvegarde: différence increment diff et total expliquer définir politique cohérente que fait on et quand 
